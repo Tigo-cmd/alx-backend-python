@@ -9,4 +9,4 @@ def add(a: float, b: float) -> float:
     :param b: second float number
     :return: sum of the two arguments
     """
-    return a * b
+    return a + b
