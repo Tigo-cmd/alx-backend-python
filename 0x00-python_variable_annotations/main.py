@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 
-import math
-
-floor = __import__('2-floor').floor
-
-ans = floor(3.14)
-print(ans == math.floor(3.14))
-print(floor.__annotations__)
-print("floor(3.14) returns {}, which is a {}".format(ans, type(ans)))
+make_multiplier = __import__('8-make_multiplier').make_multiplier
+print(make_multiplier.__annotations__)
+fun = make_multiplier(2.22)
+print("{}".format(fun(2.22)))
