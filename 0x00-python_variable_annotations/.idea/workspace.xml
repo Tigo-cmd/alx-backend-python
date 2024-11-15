@@ -1,37 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="85b4dff9-17a0-4c5f-9f70-3540f983bcf4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/4-define_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-define_variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/0x00-python_variable_annotations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/0x00-python_variable_annotations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /.idea/alx-backend-user-data .iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../alx-backend-user-data /.idea/alx-backend-user-data .iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x00-personal_data/filtered_logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../alx-backend-user-data /0x00-personal_data/filtered_logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/api/v1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/api/v1/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/api/v1/views/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/api/v1/views/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/api/v1/views/users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/models/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/models/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication/SimpleAPI/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../alx-backend-user-data " />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2nIOo0bK5DD7XLmUBVMSqXF4v8f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.app.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/tigo/Desktop/ALX/alx-backend-python/0x00-python_variable_annotations"
+    "last_opened_file_path": "/home/tigo/Desktop/ALX/alx-backend-user-data ",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../alx-backend-user-data /0x01-Basic_authentication" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
